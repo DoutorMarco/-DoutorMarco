@@ -1,26 +1,26 @@
-# -DoutorMarco
-Sovereign Systems Architect | AI Audit Level 9 | Ph.D. &amp; MBA.
-# 🛡️ Dr. Marco | Sovereign Systems Architect (Level 9)
+  🛡️ Dr. Marco Antonio do Nascimento | Sovereign Systems Architect (Level 9)
 
-**Ph.D. in Data Governance & Macroeconomics** | **Sr. Data Engineer**
+**Ph.D. in Data Governance & Macroeconomics** | **Senior Data Engineer**
 *Triple Stack Architecture: Hardware (Machine) ↔ Intelligence (Neural) ↔ Wetware (Human)*
 
 ---
 
-### 🎓 Academic Credentials & Certifications
+### 🎓 Academic Leadership & Research Evaluation
+**UFLO Universidad – Buenos Aires, Argentina**
+*   **Scientific Research Project Reviewer (2024-2026):** Official evaluator for the ordinary call (RCS 13/13). 
+*   **Thesis & Dissertation Examiner:** Supervising and evaluating academic research from Undergraduate to Post-Doctoral levels.
+*   **Project Audit:** Specialized in methodological rigor and social-cognitive impact analysis (e.g., *Perceived Social Support & Postpartum Depression Research*).
+
+### 🏛️ Professional Credentials
 *   **MSc Innovation & Entrepreneurship** (Univ. Isabel I / ENEB - 60 ECTS)
 *   **MBA Business Administration** (Univ. Isabel I / ENEB - 60 ECTS)
-*   **Specialization in NLP & Executive Coaching** (Neuro-Linguistic Programming)
-*   **Professional MBA in Technology Management** (ESNACE, Spain)
+*   **Specialization in NLP & Executive Coaching** (Behavioral Engineering)
 
-🚀 **Latest Engineering Project:** [Model Calibration Audit](https://github.com)
+🚀 **Latest Project:** [Model Calibration Audit](https://github.com)
 
 > "Sovereignty is the ultimate compliance between the neuron and the machine."
 
 ### 🛠️ Core Competencies
 *   **Engineering:** AI Audit L9, Sycophancy Mitigation, RAG Architectures, PQC-2026.
-*   **Business:** Strategic Innovation, Scalable Growth Systems, MBA-level Business Operations.
-*   **Behavioral:** NLP for Tech Leadership, Executive Coaching, Cognitive Biochemistry.
-
----
+*   **Methodology:** Stochastic Stress Testing, Scientific Review, Data Sovereignty.
 **License:** Apache License 2.0
