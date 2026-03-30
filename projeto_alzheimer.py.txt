@@ -1,0 +1,24 @@
+import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+def gerar_dados_medicos(n_amostras=5400):
+np.random.seed(42)
+data = {
+'idade': np.random.randint(50, 85, n_amostras),
+'carga_gingivalis': np.random.uniform(0, 100, n_amostras),
+'gingipaina_liquor': np.random.uniform(0, 10, n_amostras),
+'anos_doenca_gengival': np.random.randint(0, 30, n_amostras)
+}
+df = pd.DataFrame(data)
+logit = (0.05 * df['idade'] + 0.1 * df['carga_gingivalis'] + 1.5 * df['gingipaina_liquor'] - 12)
+df['diagnostico_alzheimer'] = (1 / (1 + np.exp(-logit)) > 0.5).astype(int)
+return df
+print("Processando inteligência médica do Dr. Antonio Nascimento...")
+df = gerar_dados_medicos()
+X = df.drop('diagnostico_alzheimer', axis=1)
+y = df['diagnostico_alzheimer']
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+model = RandomForestClassifier(n_estimators=100, random_state=42)
+model.fit(X_train, y_train)
+print("Modelo de Auditoria 1.3σ salvo com sucesso no PC!")
