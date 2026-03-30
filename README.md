@@ -15,6 +15,7 @@
 *   **MSc Innovation & Entrepreneurship** (Univ. Isabel I / ENEB - 60 ECTS)
 *   **MBA Business Administration** (Univ. Isabel I / ENEB - 60 ECTS)
 *   **Specialization in NLP & Executive Coaching** (Behavioral Engineering)
+*   MSc in Robotics & Industrial Automation – Esneca Business School (Double Degree | European Notary Seal
 
 🚀 **Latest Project:** [Model Calibration Audit](https://github.com)
 
